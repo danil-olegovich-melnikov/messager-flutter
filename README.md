@@ -29,16 +29,19 @@
 
 Примеры проекта представлены на следующих изображениях:
 #### Дизайн приложения в фигме
-<img src="./assets/examples/figma.png" alt="Пример макета Figma" width="400px">
+<img src="./assets/examples/figma.png" alt="Пример макета Figma" width="100%">
 
 #### Реализация приложения
-<img src="./assets/examples/chats.png" alt="Пример чатов" width="200px">
-<img src="./assets/examples/chat.png" alt="Пример чата" width="200px">
+<p float="left">
+  <img src="./assets/examples/chats.png" alt="Пример чатов" width="300px">
+  <img src="./assets/examples/chat.png" alt="Пример чата" width="300px">
+</p>
 
 #### Адаптация приложения
-<img src="assets/examples/chats_horizontal.png" alt="Пример чатов" width="200px">
-<img src="assets/examples/chat_horizontal.png" alt="Пример чата" width="200px">
-
+<p float="left">
+<img src="assets/examples/chats_horizontal.png" alt="Пример чатов" width="250px">
+<img src="assets/examples/chat_horizontal.png" alt="Пример чата" width="250px">
+</p>
 
 
 ## Ассеты и Шрифты
